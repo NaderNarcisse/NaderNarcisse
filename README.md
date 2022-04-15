@@ -1,7 +1,7 @@
 <h1 align="center">Perhaps we are incomprehensibly complex in such a way that we cannot do what nature has done to us</h1>
 
 
-- I'm currently doing my Master's Degree in Artificial Intelligence at ESILV based in Paris and I'm an apprentice at the French DGA
+- I'm currently doing my Master's Degree in Artificial Intelligence at ESILV in Paris and I'm an apprentice at the French DGA
 
 - Dedicated to the field of AI, always seeking for more knowledge.
 
