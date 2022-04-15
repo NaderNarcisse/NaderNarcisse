@@ -13,7 +13,7 @@
 
 - You can also find my work on Kaggle: https://www.kaggle.com/nadernarcisse
 
-- I am open to collaboration don't hesitate to reach out
+- I am open to collaboration don't hesitate to reach out.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
