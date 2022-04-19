@@ -10,7 +10,7 @@
 - Feel free to contact me on <a href="https://www.linkedin.com/in/nadernarcisse/">LinkedIn</a> 
 
 - Find my official Website <a href="https://www.nadernarcisse.com">here</a>
-- 
+
 - You can also find my work on <a href="https://www.kaggle.com/nadernarcisse">Kaggle</a>  
 
 - I am open to collaboration don't hesitate to reach out.
