@@ -7,11 +7,11 @@
 
 - Currently, focused on Natural Language Processing. 
 
-- Feel free to contact me on LinkedIn: https://www.linkedin.com/in/nadernarcisse/
+- Feel free to contact me on <a href="https://www.linkedin.com/in/nadernarcisse/">LinkedIn</a> 
 
-- Find my official Website here: https://www.nadernarcisse.com
-
-- You can also find my work on Kaggle: https://www.kaggle.com/nadernarcisse
+- Find my official Website <a href="https://www.nadernarcisse.com">here</a>
+- 
+- You can also find my work on <a href="https://www.kaggle.com/nadernarcisse">Kaggle</a>  
 
 - I am open to collaboration don't hesitate to reach out.
 
