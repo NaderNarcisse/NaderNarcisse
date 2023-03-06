@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Welcome to my GitHub page</h1>
-<h2 align="left">My most recent personal research project : <a href="https://www.linkedin.com/in/nadernarcisse/">Military Vehicles Detection in Satellite & Aerial Imagery using Instance Segmentation</a> </h2>
+<h2 align="center">My most recent personal research project : <a href="https://www.linkedin.com/in/nadernarcisse/">Military Vehicles Detection in Satellite & Aerial Imagery using Instance Segmentation (Soon)</a></h2>
 
 - I'm currently doing my Master's Degree in Artificial Intelligence at ESILV in Paris and I'm an apprentice at the French DGA.
 
