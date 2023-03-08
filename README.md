@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Welcome to my GitHub page</h1>
-<h2 align="center">Here is my most recent personal research project on Weights & Biases : <br> <a href="https://api.wandb.ai/links/nadernarcisse/rca22nv1">Military Vehicles Detection in Satellite & Aerial Imagery using Instance Segmentation</a></h2>
+<h2 align="center">Here is my most recent personal research project on Weights & Biases : <br> <a href="https://api.wandb.ai/links/nadernarcisse/rca22nv1" target="_blank">Military Vehicles Detection in Satellite & Aerial Imagery using Instance Segmentation</a></h2>
 
 - I'm currently doing my Master's Degree in Artificial Intelligence at ESILV in Paris and I'm an apprentice at the French DGA.
 
@@ -11,7 +11,7 @@
 
 - Find my official Website <a href="https://www.nadernarcisse.com">here</a>
 
-- You can also find my work on <a href="https://www.kaggle.com/nadernarcisse">Kaggle</a>  
+- You can also find my work on <a href="https://www.kaggle.com/nadernarcisse" target="_blank">Kaggle</a>  
 
 - I am open to collaboration don't hesitate to reach out.
 
