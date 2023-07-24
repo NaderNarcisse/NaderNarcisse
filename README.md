@@ -5,7 +5,7 @@
 
 - Dedicated to the field of AI, always seeking for more knowledge.
 
-- Currently, focused on Computer Vision. 
+- Currently, focused on Natural Language Processing. 
 
 - Feel free to contact me on <a href="https://www.linkedin.com/in/nadernarcisse/">LinkedIn</a> 
 
